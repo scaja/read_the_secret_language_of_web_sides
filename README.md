@@ -9,7 +9,7 @@
 7.touch .gitignore
 9.echo "venv/" >> .gitignore
 10.git init
-11.touch .README.md 
+11.touch README.md 
 12.git add README.md
 13.git commit -m "first commit"
 14.git branch -M main
